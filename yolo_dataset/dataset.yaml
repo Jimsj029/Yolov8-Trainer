@@ -1,0 +1,6 @@
+path: c:/new github repo/last hope stitch zoomed/yolo_dataset
+train: images/train
+val: images/val
+
+nc: 1
+names: ['Pattern']
